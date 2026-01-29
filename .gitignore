@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+.env
+lost_found.db
+uploads/*
+test_images/
