@@ -1,0 +1,7 @@
+streamlit
+numpy
+scikit-learn
+Pillow
+torch
+torchvision
+google-generativeai
